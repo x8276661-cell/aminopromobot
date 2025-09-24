@@ -1,0 +1,2 @@
+# aminopromobot
+سكربت ترويج
