@@ -1,3 +1,0 @@
-aminodorksfix
-python-telegram-bot
-httpx
